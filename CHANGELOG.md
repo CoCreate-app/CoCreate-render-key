@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.0.0...v1.0.1) (2021-03-29)
+
+
+### Bug Fixes
+
+* Package Paths ([c06a7ea](https://github.com/CoCreate-app/CoCreate-render-key/commit/c06a7eaaa64d22a383c8cc90ca16bb14ae7945e5))
+
 # 1.0.0 (2021-03-29)
 
 
