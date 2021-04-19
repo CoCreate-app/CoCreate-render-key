@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.0.1...v1.0.2) (2021-04-19)
+
+
+### Bug Fixes
+
+* ci and build process ([dce4d34](https://github.com/CoCreate-app/CoCreate-render-key/commit/dce4d34f395aa945862c70af415bcc8941287849))
+* npm publish and cdn deployment ([97fd75d](https://github.com/CoCreate-app/CoCreate-render-key/commit/97fd75d724d076e385fbe38a2e65a659d801b38d))
+
 ## [1.0.1](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.0.0...v1.0.1) (2021-03-29)
 
 
