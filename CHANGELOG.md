@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.0.4...v1.0.5) (2021-04-23)
+
+
+### Bug Fixes
+
+* readme and documentation. Removed securitykeys ([2a2e1da](https://github.com/CoCreate-app/CoCreate-render-key/commit/2a2e1da4c656702792b22bd4d813f64ebc58568a))
+
 ## [1.0.4](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.0.3...v1.0.4) (2021-04-19)
 
 
