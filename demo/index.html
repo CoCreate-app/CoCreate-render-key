@@ -1,22 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>test | CoCreate</title>
+  <title>Render-key | CoCreateJS</title>
 
-
-  <link rel="stylesheet" href="https://cdn.cocreate.app/latest/CoCreate.min.css" type="text/css"/>
-
-  <!-- Font Awesome -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" crossorigin="anonymous" />    
+  <!-- CoCreate Favicon -->
+  <link rel="icon" href="https://cdn.cocreate.app/favicon.ico" type="image/ico" sizes="16x16">
 </head>
 <body class="padding:20px">
 
 
-
+  <h1>Form Demo</h1>
+  
+  <form>
+      <input data-key="renderKey.name">
+      <div data-template_id="renderKey">
+        <div>This is <b>{{data.name}}</b></div>
+        <p>This {{data.name}}</p>
+        <p value="{{data.name}}">uuu</p>
+      </div>
+  
+      <button data-actions='renderKey'>Create Form</button>
+  </form>
 
   <script>
     var config = {
@@ -26,8 +30,7 @@
     }
   </script>
  
- 
- 
-  <script src="../dist/CoCreate-test.js"></script>
+  <!-- CoCreate JS CDN -->
+  <script src="https://cdn.cocreate.app/render-key/latest/CoCreate-render-key.min.js" ></script>
 </body>
 </html>
