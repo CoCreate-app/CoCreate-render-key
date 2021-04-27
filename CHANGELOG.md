@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.0.5...v1.0.6) (2021-04-27)
+
+
+### Bug Fixes
+
+* Update to readme, demo, added cdn scripts ([da11862](https://github.com/CoCreate-app/CoCreate-render-key/commit/da1186284b87fe8e2a9724a51a9ffc34463e9fc2))
+
 ## [1.0.5](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.0.4...v1.0.5) (2021-04-23)
 
 
