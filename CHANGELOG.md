@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.0.6...v1.0.7) (2021-04-27)
+
+
+### Bug Fixes
+
+* add host in docs ([8594de4](https://github.com/CoCreate-app/CoCreate-render-key/commit/8594de48ae202c55ef6fc704969805f528d17b28))
+
 ## [1.0.6](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.0.5...v1.0.6) (2021-04-27)
 
 
