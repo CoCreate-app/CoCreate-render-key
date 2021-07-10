@@ -1,3 +1,10 @@
+## [1.0.15](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.0.14...v1.0.15) (2021-07-10)
+
+
+### Bug Fixes
+
+* gitignore all logs ([f3bffc8](https://github.com/CoCreate-app/CoCreate-render-key/commit/f3bffc8427009a389c9d708ed3310b159a0cf88a))
+
 ## [1.0.14](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.0.13...v1.0.14) (2021-07-07)
 
 
