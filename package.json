@@ -1,6 +1,6 @@
 {
   "name": "@cocreate/render-key",
-  "version": "1.0.15",
+  "version": "1.0.17",
   "description": "A simple render-key component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
   "keywords": [
     "render-key",
@@ -61,7 +61,7 @@
     "webpack-log": "^3.0.1"
   },
   "dependencies": {
-    "@cocreate/action": "^1.1.13",
+    "@cocreate/action": "^1.1.16",
     "@cocreate/api": "^1.0.20",
     "@cocreate/docs": "^1.1.29",
     "@cocreate/render": "^1.0.12",

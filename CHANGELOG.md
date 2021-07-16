@@ -1,3 +1,18 @@
+## [1.0.17](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.0.16...v1.0.17) (2021-07-14)
+
+
+### Bug Fixes
+
+* upgrade all packages ([5627227](https://github.com/CoCreate-app/CoCreate-render-key/commit/56272272d290101648aee41e8cc38587286b99c3))
+
+## [1.0.16](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.0.15...v1.0.16) (2021-07-13)
+
+
+### Bug Fixes
+
+* add yarn lockfile to git ignore ([a0c3107](https://github.com/CoCreate-app/CoCreate-render-key/commit/a0c3107e98281ca86c7153c43a2ea0d5a0b9be7a))
+* remove yarn.lock ([113743e](https://github.com/CoCreate-app/CoCreate-render-key/commit/113743e857c86583ddb0fd221e4603c94ff872c2))
+
 ## [1.0.15](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.0.14...v1.0.15) (2021-07-10)
 
 
