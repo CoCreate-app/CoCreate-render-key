@@ -1,3 +1,11 @@
+## [1.0.18](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.0.17...v1.0.18) (2021-07-17)
+
+
+### Bug Fixes
+
+* init and update demos scripts ([1feabc4](https://github.com/CoCreate-app/CoCreate-render-key/commit/1feabc45fc8ab104e248b30034a68bc7e2d40ccb))
+* workflows ([a2b8150](https://github.com/CoCreate-app/CoCreate-render-key/commit/a2b815064fd05bf0aab7a1e577dd64c035702797))
+
 ## [1.0.17](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.0.16...v1.0.17) (2021-07-14)
 
 
