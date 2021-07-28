@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.1.0...v1.1.1) (2021-07-28)
+
+
+### Bug Fixes
+
+* remove data- from fetch, pass and filter ([171751b](https://github.com/CoCreate-app/CoCreate-render-key/commit/171751b7b1c3d22cf918fa41af6f57f8c6f468ff))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.0.18...v1.1.0) (2021-07-28)
 
 
