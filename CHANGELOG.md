@@ -1,3 +1,11 @@
+## [1.1.2](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.1.1...v1.1.2) (2021-08-02)
+
+
+### Bug Fixes
+
+* remove data- from attributes ([32ddac5](https://github.com/CoCreate-app/CoCreate-render-key/commit/32ddac501d4bf1f6edd8e36e51169af3b4f5ffb7))
+* update data-fullscreen to fullscreen ([e4109d3](https://github.com/CoCreate-app/CoCreate-render-key/commit/e4109d3efe9903d22c9f7ec2a155e3aacb9b8dde))
+
 ## [1.1.1](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.1.0...v1.1.1) (2021-07-28)
 
 
