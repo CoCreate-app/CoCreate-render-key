@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.1.5...v1.1.6) (2021-08-22)
+
+
+### Bug Fixes
+
+* removed data- from main-content, clone, filter-value_type ([7c1b42c](https://github.com/CoCreate-app/CoCreate-render-key/commit/7c1b42c38e16bbdea54d8a9975c614882cc8cecb))
+
 ## [1.1.5](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.1.4...v1.1.5) (2021-08-22)
 
 
