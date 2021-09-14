@@ -14,6 +14,7 @@ module.exports = {
                 "name": "index.html",
                 "path": "/docs/render-key/index.html",
                 "domains": [
+                    "cocreate.app",
                     "general.cocreate.app"
                 ],
                 "directory": "/docs/render-key",
