@@ -1,3 +1,10 @@
+## [1.1.17](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.1.16...v1.1.17) (2021-09-14)
+
+
+### Bug Fixes
+
+* add cocreate.app to domains ([4e0aee2](https://github.com/CoCreate-app/CoCreate-render-key/commit/4e0aee23a531d68ae915abeae9950cd78b8bf5d9))
+
 ## [1.1.16](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.1.15...v1.1.16) (2021-09-13)
 
 
