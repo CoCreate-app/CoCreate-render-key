@@ -1,3 +1,10 @@
+## [1.1.18](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.1.17...v1.1.18) (2021-09-16)
+
+
+### Bug Fixes
+
+* update dependencies ([95a90ac](https://github.com/CoCreate-app/CoCreate-render-key/commit/95a90accfc93824948a0ada7f7b2a3688238aca9))
+
 ## [1.1.17](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.1.16...v1.1.17) (2021-09-14)
 
 
