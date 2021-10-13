@@ -1,3 +1,10 @@
+## [1.1.26](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.1.25...v1.1.26) (2021-10-13)
+
+
+### Bug Fixes
+
+* update descriptions ([34c15c3](https://github.com/CoCreate-app/CoCreate-render-key/commit/34c15c38e1e32f28e6d04337fdfa78f696ad6850))
+
 ## [1.1.25](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.1.24...v1.1.25) (2021-10-13)
 
 
