@@ -1,3 +1,11 @@
+## [1.1.45](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.1.44...v1.1.45) (2021-11-26)
+
+
+### Bug Fixes
+
+* docs sidenav width ([fba4cb1](https://github.com/CoCreate-app/CoCreate-render-key/commit/fba4cb1159f1d3bf74ec8b1611b8d85f1b7d65cf))
+* updated action dependency to actions ([4cb1cb7](https://github.com/CoCreate-app/CoCreate-render-key/commit/4cb1cb7645ff21cc48fe5161d42a49d2d1cf840f))
+
 ## [1.1.44](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.1.43...v1.1.44) (2021-11-26)
 
 
