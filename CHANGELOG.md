@@ -1,3 +1,10 @@
+## [1.1.51](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.1.50...v1.1.51) (2021-12-24)
+
+
+### Bug Fixes
+
+* replaced data.key with rederKey.key ([6c94f64](https://github.com/CoCreate-app/CoCreate-render-key/commit/6c94f646d088a05cb7aa9e164d848fbe4ca1452a))
+
 ## [1.1.50](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.1.49...v1.1.50) (2021-12-15)
 
 
