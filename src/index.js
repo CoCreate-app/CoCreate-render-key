@@ -11,7 +11,7 @@ const CoCreateRenderKey = {
 		const container = element.closest("form") || document;
 		let data = CoCreateApi.getFormData(this.id, 'renderKey',  container);
 		console.log(data);
-		CoCreateApi.render('renderKey', { data : data});
+		CoCreateApi.render('renderKey', { renderKey : data});
 		
 		document.dispatchEvent(new CustomEvent('renderKey', {
 			detail: { data }
