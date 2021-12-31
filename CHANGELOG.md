@@ -1,3 +1,10 @@
+## [1.1.52](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.1.51...v1.1.52) (2021-12-31)
+
+
+### Bug Fixes
+
+* update container to form ([d074bfc](https://github.com/CoCreate-app/CoCreate-render-key/commit/d074bfc5427bad9eeeab227e7fd094b265653d0c))
+
 ## [1.1.51](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.1.50...v1.1.51) (2021-12-24)
 
 
