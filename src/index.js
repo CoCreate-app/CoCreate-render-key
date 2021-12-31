@@ -8,8 +8,8 @@ const CoCreateRenderKey = {
 	],
 	
 	action_renderKey: function(element) {
-		const container = element.closest("form") || document;
-		let data = CoCreateApi.getFormData(this.id, 'renderKey',  container);
+		const form = element.closest("form") || document;
+		let data = CoCreateApi.getFormData(this.id, 'renderKey',  form);
 		console.log(data);
 		CoCreateApi.render('renderKey', { renderKey : data});
 		

@@ -11,11 +11,11 @@
     <body class="padding:20px">
     
         <form>
-            <input data-key="renderKey.name">
+            <input key="renderKey.name">
             <div template_id="renderKey">
-                <div>This is <b>{{data.name}}</b></div>
-                <p>This {{data.name}}</p>
-                <input value="{{data.name}}">
+                <div>This is <b>{{renderKey.name}}</b></div>
+                <p>This {{renderKey.name}}</p>
+                <input value="{{renderKey.name}}">
             </div>
     
             <button actions='renderKey'>Create Form</button>
