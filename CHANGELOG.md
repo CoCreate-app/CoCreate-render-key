@@ -1,3 +1,10 @@
+## [1.1.53](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.1.52...v1.1.53) (2022-01-01)
+
+
+### Bug Fixes
+
+* removed data- from attributes ([745907a](https://github.com/CoCreate-app/CoCreate-render-key/commit/745907af37a8afb3bd03ab1ca868c01f59f983c1))
+
 ## [1.1.52](https://github.com/CoCreate-app/CoCreate-render-key/compare/v1.1.51...v1.1.52) (2021-12-31)
 
 
